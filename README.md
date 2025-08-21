@@ -3,7 +3,7 @@
 <br><br>
 ## 👦 Profile
 - 🧑‍ **Name:** 홍진기(Jin-gi Hong)
-- 🎂 **Age:** Your Age
+- 🎂 **Age:** 24(2002.05.19)
 - 🏠 **Address:** South Korea
 - 🎓 **Education:** Gachon University, Computer Engineering
 
