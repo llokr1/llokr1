@@ -46,6 +46,6 @@
 
 ## 📫 How to reach me
 <a href="https://llokr1.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white"></a><br>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> : ghdwlsrl100@gmail.com <br>
+<a href="mailto:ghdwlsrl100@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> ghdwlsrl100@gmail.com</a><br>
 <a href="https://discord.com/users/llokr1"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
