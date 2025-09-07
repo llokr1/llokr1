@@ -12,7 +12,6 @@
 ## ❤️ Interest
 - ☁️ Cloud Native Technologies
 - 💻 Backend Development
-- 🤖 AI Modeling
 
 <br><br>
 
