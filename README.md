@@ -56,7 +56,7 @@
 ## GitHub Stats
 
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=llokr1&show_icons=true&theme=holi" width="40%" height="130%" />
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=llokr1&show_icons=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true" width="40%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ghdwlsrl100" width="40%" height="100%"/>
 </div>
 <div>
