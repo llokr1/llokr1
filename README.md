@@ -26,15 +26,6 @@
 
 ---
 
-## Certifications
-
-| 자격증 | 취득날짜 |
-|---|---|
-| 정보처리기사 | 2026.06 |
-| 리눅스마스터 2급 | 2026.04 |
-
----
-
 ## Interests & Learning
 
 **Cloud & Infrastructure**
