@@ -6,9 +6,7 @@
 
 *Interested in cloud infrastructure and platform engineering.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-llokr1.github.io-181717?style=flat-square&logo=github&logoColor=white)](https://llokr1.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-llokr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llokr)
-[![Blog](https://img.shields.io/badge/Blog-blog.llokr.kr-FF5A00?style=flat-square&logo=tistory&logoColor=white)](https://blog.llokr.kr/)
 [![Email](https://img.shields.io/badge/Email-ghdwlsrl100%40gachon.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ghdwlsrl100@gachon.ac.kr)
 
 </div>
